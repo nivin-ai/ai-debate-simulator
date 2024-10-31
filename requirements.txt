@@ -2,7 +2,6 @@ transformers
 nltk
 pandas
 streamlit
-json
 tensorflow
 torch
 tf-keras
